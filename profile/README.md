@@ -1,4 +1,5 @@
-# 🌌 Sam Bélanger — AstromanGaming  
+# <p align="center"><strong>![🌌 Sam Bélanger — AstromanGaming](https://github.com/AstromanGaming/.github/blob/d9df0e90a18c2b70cc30f185245622603485cf09/profile/Watermaker.png)</strong></p>
+
 **Systems Developer • GPU & Performance Engineer • Creative Technologist**
 
 I’m a multidisciplinary creator working at the intersection of **systems engineering**, **GPU technologies**, **digital art**, and **music production**.  
