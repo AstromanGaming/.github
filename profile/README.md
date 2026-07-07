@@ -26,7 +26,7 @@ I design and build technical projects with a strong focus on clarity, performanc
 
 ---
 
-## 🎮 Content Creation — *AstromanGaming*
+## 🎮 Content Creation
 
 Under the name **AstromanGaming**, I produce technical and creative content across multiple platforms:
 
